@@ -57,7 +57,7 @@ Follow these steps to get a local copy up and running:
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/Rishav83/EV-ChargeHub.git
-    cd ev-charging-bunk
+    cd EV-ChargeHub
     ```
 
 2.  **Install dependencies**
