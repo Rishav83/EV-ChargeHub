@@ -56,7 +56,7 @@ Follow these steps to get a local copy up and running:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Rishav83/ev-charging-bunk.git
+    git clone https://github.com/Rishav83/EV-ChargeHub.git
     cd ev-charging-bunk
     ```
 
@@ -152,4 +152,4 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for de
 
 Your Name - Rishav Pandey - rishavpandey83@gmail.com
 
-Project Link: [https://github.com/Rishav83/ev-charging-bunk]
+Project Link: [https://github.com/Rishav83/EV-ChargeHub]
